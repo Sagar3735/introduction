@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>iNTRODUCTION</title>
+    <link rel="stylesheet" href="me.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&display=swap" rel="stylesheet">
+</head>
+<body>
+  <p id="cursive">
+    <H1>INTRODUCTION</H1>
+    <ol>
+
+        <h2>
+        <li> HTML :</li>
+        </h2>
+
+          <p>
+            HTML stand for Hyper Text Markup Language.It is used to design webpage using a markup language.
+            HTML is the combination of link between the pages,i.e Hypertext and Markup language is used to
+            define the text document within the tag which define the structure of webpages.
+          </p>
+          <p>
+            This language is used to annotate(make note for the computer) text so that a machine can 
+            understand it. HTML is a markup language used by browser to manipulate text, image and other
+            content in order to display it in required format. HTML was created by Tim Berners-Lee in 1991.
+            The first ever version of HTML was HTML 1.0, but the standard version was HTML 2.0 published
+            in 1995.
+          </p>
+
+             <h3>Application :</h3>
+
+              <ul>
+               <li><p>Web Page Development</p></li>
+               <li><p>Navigating The Internet</p></li>
+               <li><p>Responsive Designs</p></li>
+               <li><p>Storage Function In Browser</p></li>
+               <li><p>Game Development</p></li>
+               <li><p>Data Entry Support</p></li>
+              </ul>
+
+        <h2>
+        <li>CSS :</li>   
+        </h2>
+
+          <p>
+             Cascading style sheet, fondly refored to as CSS, is a simply designed language intend to simplyfy
+             the process of making web pages presentable. CSS enable  you to do this independently of the HTML
+             that makes up each web page. It describe how a webpage should look. It prescribe colors, fonts, 
+             spacing and much more. In short you can make your website look however you want. CSS lets 
+             developers and designers define how it behaves, including how elements are positioned in the 
+             browser.<br />
+             while HTML uses tags, CSS uses nullsets. CSS is easy to learn and understand,  but it provides
+             powerful control over the presentation of an HTML document.
+          </p>
+
+          <h3>Advantages :</h3>
+
+          <ul>
+
+            <li>CSS Saves Time :
+                <p>You can write CSS once and reuse the same sheet in multiple HTML pages.</p>
+            </li>
+
+            <li>Easy Maintanence :
+                <p>To make a global change simply  change the style, and all element in all the webpage will 
+                    be wpdated automatically.</p>
+            </li>
+
+            <li>Search Engine :
+                <p> CSS is considered a clean coding technique, which means search engine won't struggle.</p>
+            </li>
+
+            <li>Superior Style To HTML :
+                <p>CSS has a much wider array of attribute than HTML so far.</p>
+            </li>
+
+          </ul>
+
+        <h2>
+        <li>Javascript :</li>
+        </h2>
+
+           <p>  Javascript is a lightweight, cross-platform, single-threaded and innterpreted compile programming 
+             language. It is also known as the scripting language for webpages. It is well known for the
+             development of web pages, and many non brwser environment also use it.<br />
+             Javascript is a weakly typer language(dynamically typed). Javascript can be used for client-side
+             developments. Javascript contains a standard library of objects, like Array, Data and Math, and a 
+             core set of language elements like operator, control structure and statements.
+           </p>
+
+            <ul>
+              <h4>
+                <li> client side :</li>
+              </h4> 
+
+               <p>It  supplies objects to control a browser and its Documents Object Model (DOM). Like if client-side
+                  extension allow an aplication to place elements on an HTML form.</p> 
+
+              <h4>
+                <li>Server-side :</li>
+              </h4>
+
+              <p>It supplies objects relevent to running a Javascript on a server. For if the server-side extension
+                 allow an application to communicate with a database.</p>
+
+              <h4>
+                <li>Imperative Language :</li>
+              </h4>
+
+              <p>In this type of language we are smothly concerned about how it is to be done. It simply controls
+                the flow of the computation.</p>
+            </ul>
+
+        <h2>
+        <li>Bootstrap :</li>
+        </h2> 
+
+           <p>Bootstrap is a free and open source tool collecting for creating responsive websites and web applications.
+              It is the most popular HTML, CSS and Javascript frameswork for developing responsive, mobile first websites.
+              Nowadays the websites are perfect for all browser(i.e,Firefox and Chrome) and all sizes of screen(Desktop, Tablets
+              and Phones) All thanks to Bootstrap developers-Mark otto and Jacob Thornton of Twitter, though it was later
+              declared to be an open sourse project. By using this framework, we can easily manipulate the styling of any
+              webpage, like font-style, text-color, background-color, flex, grid system, etc.
+           </p>
+
+           <ul>
+            <li><p>It is faster and easier way for web-development.</p></li>
+            <li><p>It creates platform independent webpages.</p></li>
+            <li><p>It creates responsive webpages.</p></li>
+            <li><p>It designs responsive webpages for mobile device too.</p></li>
+            <li><p>It is a free and open source frame work availaible on www.gitbootstrap.com.</p></li>
+           </ul>
+
+    </ol>
+  </body>
+  </html>

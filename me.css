@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    border: solid darkblue;
+    border-width: 0px 0px 10px 0px;
+}
+
+body{
+    background-color: antiquewhite;
+    margin:auto;
+}
+
+p{
+    font-family: 'Edu TAS Beginner', cursive;
+    color:brown;
+}
+
+h1{
+  color: black;
+} 
+
+h2{
+    color: red;
+}
+
+ul{
+    color: blue;
+}
+
+h3{
+    color: darkgreen;
+}
